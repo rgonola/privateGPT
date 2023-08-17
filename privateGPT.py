@@ -77,7 +77,7 @@ def send_message():
         # # Print the result
         # print("\n\n> Question:")
         # print(message)
-        # print(f"\n> Answer (took {round(end - start, 2)} s.):")
+        print(f"\n> Answer (took {round(end - start, 2)} s.):")
         # print(answer)
         txt.insert(END, "Bot: " + answer + "\n", "receiver")
         # # Print the relevant sources used for the answer
