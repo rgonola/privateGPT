@@ -1,0 +1,35 @@
+﻿Product ID,Product Name,Category,Family,Subfamily,Related Family,Related Subfamily,Price,Stock Quantity,Manufacturer,Currency Code
+1,Laptop,Electronics,Computers,Laptops,Accessories,Bags,999.99,50,ABC Tech,USD
+5,Headphones,Electronics,Audio,Headphones,Accessories,Earpads,149.99,75,SoundWave,USD
+6,Tablet,Electronics,Computers,Tablets,Accessories,Cases,349.99,80,ABC Tech,USD
+11,Desktop,Electronics,Computers,Desktops,Accessories,Keyboards,799.99,40,PC Experts,USD
+13,Printer,Electronics,Computers,Printers,Accessories,Ink Cartridges,149.99,60,PrintTech,USD
+15,Speaker,Electronics,Audio,Speakers,Accessories,Cables,79.99,100,SoundWave,USD
+17,Monitor,Electronics,Computers,Monitors,Accessories,Stands,249.99,55,DisplayTech,USD
+24,Wireless Earbuds,Electronics,Audio,Earbuds,Accessories,Charging Cases,129.99,90,SoundWave,USD
+28,External Hard Drive,Electronics,Storage,Hard Drives,Accessories,Cables,179.99,45,DataTech,USD
+30,Game Console,Electronics,Gaming,Consoles,Accessories,Controllers,299.99,30,GameWorld,USD
+36,Router,Electronics,Networking,Routers,Accessories,Antennas,79.99,85,NetConnect,USD
+39,VR Headset,Electronics,Gaming,Virtual Reality,Accessories,Controllers,249.99,25,GameWorld,USD
+46,Wireless Mouse,Electronics,Computers,Peripherals,Accessories,Mouse Pads,39.99,150,PC Experts,USD
+48,Bluetooth Speaker,Electronics,Audio,Speakers,Accessories,Charging Cables,69.99,120,SoundWave,USD
+51,Smart Speaker,Electronics,Audio,Smart Speakers,Accessories,Voice Assistants,129.99,70,SoundWave,USD
+59,Gaming Mouse,Electronics,Gaming,Peripherals,Accessories,Mouse Pads,49.99,110,GameWorld,USD
+62,Wireless Keyboard,Electronics,Computers,Peripherals,Accessories,Batteries,59.99,90,PC Experts,USD
+65,Bluetooth Headset,Electronics,Audio,Headsets,Accessories,Charging Cables,79.99,80,SoundWave,USD
+76,Wi-Fi Extender,Electronics,Networking,Extenders,Accessories,Cables,49.99,100,NetConnect,USD
+82,Gaming Keyboard,Electronics,Gaming,Peripherals,Accessories,Batteries,89.99,75,GameWorld,USD
+85,Wireless Earphones,Electronics,Audio,Earphones,Accessories,Charging Cases,79.99,110,SoundWave,USD
+94,Bluetooth Receiver,Electronics,Audio,Receivers,Accessories,Cables,29.99,190,SoundWave,USD
+97,USB Hub,Electronics,Computers,Peripherals,Accessories,Cables,19.99,250,PC Experts,USD
+100,Wireless Webcam,Electronics,Computers,Webcams,Accessories,Mounts,79.99,55,VideoTech,USD
+106,Wireless Adapter,Electronics,Networking,Adapters,Accessories,Cables,29.99,180,NetConnect,USD
+109,Noise-Canceling Headphones,Electronics,Audio,Headphones,Accessories,Carrying Cases,199.99,60,SoundWave,USD
+118,USB Flash Drive,Electronics,Storage,USB Drives,Accessories,NA,9.99,300,DataTech,USD
+127,Wireless Presenter,Electronics,Computers,Peripherals,Accessories,Batteries,39.99,90,PC Experts,USD
+130,USB-C Hub,Electronics,Computers,Peripherals,Accessories,Cables,49.99,100,PC Experts,USD
+139,Bluetooth Keyboard,Electronics,Computers,Peripherals,Accessories,Batteries,59.99,110,PC Experts,USD
+142,USB Webcam,Electronics,Computers,Webcams,Accessories,Mounts,59.99,75,VideoTech,USD
+148,Wireless Gaming Controller,Electronics,Gaming,Controllers,Accessories,Batteries,49.99,90,GameWorld,USD
+151,Bluetooth Mouse,Electronics,Computers,Peripherals,Accessories,Batteries,29.99,180,PC Experts,USD
+154,Wireless Presenter with Laser Pointer,Electronics,Computers,Peripherals,Accessories,Batteries,34.99,120,PC Experts,USD
