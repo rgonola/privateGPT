@@ -1,4 +1,8 @@
 {
      "sarif-viewer.connectToGithubCodeScanning": "off",
-     "terminal.integrated.shellIntegration.suggestEnabled": true
+     "terminal.integrated.shellIntegration.suggestEnabled": true,
+     "[python]": {
+          "editor.defaultFormatter": "ms-python.python"
+     },
+     "python.formatting.provider": "none"
 }
